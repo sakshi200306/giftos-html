@@ -53,7 +53,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             <input type="date" name="order_date" class="form-control" value="<?php echo $order['order_date']; ?>" required>
         </div>
 
-        <button type="submit" class="btn btn-primary">Update Order</button>
+        <button type="submit" class="btn btn-primary"> Order</button>
     </form>
 </div>
 </div>
